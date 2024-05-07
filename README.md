@@ -8,12 +8,19 @@ Based on the data, the acceptance rate for those with an income lower than 50k i
 - Carry Away coupons acceptance rate for those who have an income less than 50K:  0.7530966143682907
 - Carry Away coupons acceptance rate for those who have an income greater than 50K:  0.7294429708222812
 
+- This trend can be seen in the following visualizations:
+![bar_coupons_cheap_restaurants.png](images/bar_coupons_cheap_restaurants.png)
+![carry_away_income.png](images/carry_away_income.png)
 
 Having a kid as a passenger reduces the acceptance rate. Based on the following stats:
 - Bar coupons acceptance rate for those who visit the bar more than once a month and do not have a child passenger and do not have an occupation in farming, fishing, or forestry:  0.7094339622641509
 - Bar coupons acceptance rate for those who visit the bar more than once a month and have a child passenger  0.38095238095238093
 - Carry Away coupons acceptance rate for those who do have a child passenger:  0.6971830985915493
 - Carry Away coupons acceptance rate for those who do not have a child passenger:  0.7404115996258185
+
+Visualizations for the carry away acceptance rate based on having a child passenger:
+![carry_away_kids.png](images/carry_away_kids.png)
+![carry_away_no_kids.png](images/carry_away_no_kids.png)
 
 Stats about age show that it appears younger folks are more accepting of coupons:
 - Carry Away coupons acceptance rate for those who are 21-31 years old or older than 50:  0.7400744416873449
